@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio Projects
+#  Data Analyst Portfolio Projects
 
 Welcome to my **Data Analyst Portfolio Repository** — a collection of real-world, end-to-end projects designed to showcase my ability to analyze complex datasets, derive actionable insights, and present clear, compelling data stories to support business decisions.
 
@@ -65,15 +65,21 @@ This repository serves as:
 
 ## 📁 Repository Structure
 
-📦 Data-Analyst-Projects
+Data-Analyst-Projects/
+│
 ├── project-name-1/
-│ ├── dataset.csv
-│ ├── project-notebook.ipynb
-│ ├── visuals/
-│ └── README.md
+│   ├── dataset.csv
+│   ├── project-notebook.ipynb
+│   ├── visuals/
+│   └── README.md
+│
 ├── project-name-2/
-│ └── ...
-└── README.md (this file)
+│   ├── dataset.xlsx
+│   ├── analysis.sql
+│   ├── dashboard.png
+│   └── README.md
+│
+└── README.md   <-- Main repository README (this file)
 
 
 Each project folder includes:
@@ -145,19 +151,26 @@ If you're a **fellow data analyst or student**, feel free to explore, learn, or 
 
 ---
 
-👩‍💻 Contribution
+## 👩‍💻 Contribution
+
 This is a growing repository! If you have suggestions, improvements, or new project ideas, feel free to submit a pull request. Contributions are always welcome!
+
+---
 
 Happy learning, and let’s dive deep into the world of Data Science! 🎉
 
-📞 Contact
+---
+
+## 📞 Contact
+
 For any questions, feel free to open an issue or reach out to me:
 
-Email: dikshantsharmaji@gmail.com
-LinkedIn: https://www.linkedin.com/in/panditdikshantsharma
-GitHub: https://github.com/pandit-dikshant-sharma
-Instagram: https://instagram.com/pandit_dikshant_sharma
-Twitter: https://x.com/dikshant9528
+- **Email**: dikshantsharmaji@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/panditdikshantsharma
+- **GitHub**: https://github.com/pandit-dikshant-sharma
+- **Instagram**: https://instagram.com/pandit_dikshant_sharma
+- **Twitter**: https://x.com/dikshant9528
+
 
 ---
 
