@@ -66,7 +66,7 @@ This dashboard can be leveraged by **banks, fintech companies, and policymakers*
 
 ## 📸 Dashboard Preview
 [UPI Transaction Dashboard]
-<img width="1077" height="613" alt="Screenshot" src="https://github.com/user-attachments/assets/fed64a7e-b72b-4bb1-8996-d8fee732c2d1" />
+<img width="1077" height="613" src="https://github.com/user-attachments/assets/fed64a7e-b72b-4bb1-8996-d8fee732c2d1" />
 
 
 ---
