@@ -65,8 +65,8 @@ This dashboard can be leveraged by **banks, fintech companies, and policymakers*
 ---
 
 ## 📸 Dashboard Preview
-![UPI Transaction Dashboard]
-(https://github.com/pandit-dikshant-sharma/Data-Analyst-Projects/blob/main/UPI%20Transaction%20Dashboard%20%E2%80%93%20Power%20BI/Screenshot%202025-08-19%20161704.png)
+[UPI Transaction Dashboard]
+- <a> href="https://github.com/pandit-dikshant-sharma/Data-Analyst-Projects/blob/main/UPI%20Transaction%20Dashboard%20%E2%80%93%20Power%20BI/Screenshot%202025-08-19%20161704.png"> View Dashboard</a>
 
 ---
 
