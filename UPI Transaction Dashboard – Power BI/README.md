@@ -1,4 +1,4 @@
-# 📊 UPI Transaction Dashboard – Power BI
+#  UPI Transaction Dashboard – Power BI
 
 ## 📌 Project Overview
 I created an **interactive UPI Transaction Dashboard** using **Power BI** to analyze and visualize digital payment patterns across India.  
@@ -66,9 +66,31 @@ This dashboard can be leveraged by **banks, fintech companies, and policymakers*
 
 ## 📸 Dashboard Preview
 ![UPI Transaction Dashboard]
-https://github.com/pandit-dikshant-sharma/Data-Analyst-Projects/blob/main/UPI%20Transaction%20Dashboard%20%E2%80%93%20Power%20BI/Screenshot%202025-08-19%20161704.png
+(https://github.com/pandit-dikshant-sharma/Data-Analyst-Projects/blob/main/UPI%20Transaction%20Dashboard%20%E2%80%93%20Power%20BI/Screenshot%202025-08-19%20161704.png)
 
 ---
 
-## 🔖 Hashtags for Sharing
-`#PowerBI #DataAnalytics #DataVisualization #FinTech #UPI #DigitalPayments #BusinessIntelligence #DataScience`
+## 👩‍💻 Contribution
+
+This is a growing repository! If you have suggestions, improvements, or new project ideas, feel free to submit a pull request. Contributions are always welcome!
+
+---
+
+Happy learning, and let’s dive deep into the world of Data Science! 🎉
+
+---
+
+## 📞 Contact
+
+For any questions, feel free to open an issue or reach out to me:
+
+- **Email**: dikshantsharmaji@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/panditdikshantsharma
+- **GitHub**: https://github.com/pandit-dikshant-sharma
+- **Instagram**: https://instagram.com/pandit_dikshant_sharma
+- **Twitter**: https://x.com/dikshant9528
+
+
+---
+
+## ⭐ Support This Repository
