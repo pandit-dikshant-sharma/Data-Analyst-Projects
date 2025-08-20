@@ -49,8 +49,43 @@ Here’s a preview of the dashboard:
 
 ---
 
-## 📌 Repository Info
-This repository contains the **Power BI dashboard file (.pbix)** and supporting documentation.  
-Feel free to explore, suggest improvements, or use it as a reference.  
+## 🧩 How This Portfolio Is Useful
+
+If you're a **recruiter or hiring manager**, these projects provide a transparent view of my hands-on capabilities in handling data problems.
+
+If you're a **fellow data analyst or student**, feel free to explore, learn, or even fork and build upon these projects.
+
+---
+
+## 👩‍💻 Contribution
+
+This is a growing repository! If you have suggestions, improvements, or new project ideas, feel free to submit a pull request. Contributions are always welcome!
+
+---
+
+Happy learning, and let’s dive deep into the world of Data Science! 🎉
+
+---
+
+## 📞 Contact
+
+For any questions, feel free to open an issue or reach out to me:
+
+- **Email**: dikshantsharmaji@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/panditdikshantsharma
+- **GitHub**: https://github.com/pandit-dikshant-sharma
+- **Instagram**: https://instagram.com/pandit_dikshant_sharma
+- **Twitter**: https://x.com/dikshant9528
+
+---
+
+## ⭐ Support This Repository
+
+If you found this repository helpful, please consider:
+- ⭐ Starring the repository
+- 🔁 Sharing it with others
+- 🛠 Contributing ideas or improvements
+
+Thank you for visiting!
 
 #PowerBI #DataAnalytics #Uber #DataVisualization #BusinessIntelligence
