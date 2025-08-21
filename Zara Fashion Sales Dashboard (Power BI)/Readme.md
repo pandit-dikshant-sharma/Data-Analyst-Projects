@@ -31,7 +31,9 @@ The dashboard provides:
 ---
 
 ## 📷 Dashboard Screenshot  
- 
+
+ <img width="1275" height="712" alt="Zara Fashion Sales Dashboard" src="https://github.com/user-attachments/assets/ed7b1209-cca9-497e-bcda-daa81a34be6d" />
+
 
 ---
 
