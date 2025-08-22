@@ -1,7 +1,9 @@
 # Electric Vehicle Power BI Dashboard  
 
-This project showcases an **Electric Vehicle Dashboard** built using **Power BI**.  
-The dashboard provides interactive insights about electric vehicles based on year, battery type, range, charging type, and country of manufacture.  
+This repository contains a **Power BI Dashboard** that provides detailed insights into the **Electric Vehicle (EV) industry**.  
+The dashboard is designed to analyze and visualize data related to **yearly trends, battery types, charging methods, driving range, and global manufacturing locations**.  
+
+By leveraging Power BI’s interactive features, this dashboard helps users explore patterns and make data-driven decisions in the growing field of electric vehicles.  
 
 ---
 
