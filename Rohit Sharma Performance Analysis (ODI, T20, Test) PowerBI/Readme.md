@@ -1,4 +1,4 @@
-# 📊 Rohit Sharma Performance Analysis (ODI, T20, Test)
+# Rohit Sharma Performance Analysis (ODI, T20, Test)
 
 ## 📌 Project Overview
 This project is a **data analytics case study** on **Rohit Sharma (HIT-MAN)**, one of the greatest Indian cricketers. Using **Power BI dashboards**, I analyzed his **ODI, T20, and Test performance** across multiple years to uncover insights on his batting style, scoring patterns, and consistency.  
@@ -45,6 +45,7 @@ The project demonstrates how **data visualization and storytelling** can be appl
 
 ## 🔗 Dashboard Snapshots
 ![Rohit Sharma Dashboard]
+
 <img width="1308" height="723" alt="image" src="https://github.com/user-attachments/assets/b2bc7a99-2d2a-4b71-bf64-fc712259ccf3" />
 
 
