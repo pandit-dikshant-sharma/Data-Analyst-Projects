@@ -45,8 +45,7 @@ The project demonstrates how **data visualization and storytelling** can be appl
 
 ## 🔗 Dashboard Snapshots
 ![Rohit Sharma Dashboard]
-
-<img width="1308" height="723" alt="image" src="https://github.com/user-attachments/assets/b2bc7a99-2d2a-4b71-bf64-fc712259ccf3" />
+[ <img width="1308" height="723" alt="image" src="https://github.com/user-attachments/assets/b2bc7a99-2d2a-4b71-bf64-fc712259ccf3" /> ]
 
 
 *(Dashboard highlights runs, centuries, strike rate, and scoring patterns.)
