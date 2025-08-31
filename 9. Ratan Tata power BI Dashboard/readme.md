@@ -70,5 +70,3 @@ If you found this repository helpful, please consider:
 Thank you for visiting!
 ---
 
-## 📂 Repository Contents
-
