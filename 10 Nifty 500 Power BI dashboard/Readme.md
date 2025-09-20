@@ -1,7 +1,8 @@
 
 # 📊 Nifty 500 Power BI Dashboard
 
-![Dashboard Preview](422b2acd-81b2-41dd-af87-386130b30c7c.png)
+<img width="1390" height="940" alt="image" src="https://github.com/user-attachments/assets/4ce3fb3a-ac95-4397-bd7d-6465455598ad" />
+
 
 ## 📌 Overview
 This project is a **Power BI Dashboard** built to show the financial performance of companies from the **Nifty 500 index**.  
